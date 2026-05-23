@@ -59,6 +59,13 @@
                         "status": "Unobtainable",
                         "from": "Ranked S1",
                         "tag": "p/pr"
+                    },
+                    "Glorious": {
+                        "name": "Glorious Assault Rifle",
+                        "rarity": "Common",
+                        "status": "Obtainable",
+                        "from": "Glory Shop",
+                        "tag": "p/ga"
                     }
                 }
             }
