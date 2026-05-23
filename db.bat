@@ -50,4 +50,3 @@ powershell -Command ^
 echo.
 echo Press any key to search again...
 pause > nul
-goto start
