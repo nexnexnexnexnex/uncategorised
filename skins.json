@@ -66,6 +66,13 @@
                         "status": "Obtainable",
                         "from": "Glory Shop",
                         "tag": "p/ga"
+                    },
+                    "10b": {
+                        "name": "10B Visits",
+                        "rarity": "Unique",
+                        "status": "Unobtainable",
+                        "from": "Redeeming a code when the game reached 10 billion visits",
+                        "tag": "p/10b"
                     }
                 }
             }
