@@ -1,0 +1,67 @@
+{
+    "Weapons": {
+        "Primary": {
+            "AR": {
+                "name": "Assault Rifle",
+                "skins": {
+                    "Default": {
+                        "name": "Assault Rifle",
+                        "rarity": "none",
+                        "status": "Obtainable",
+                        "from": "PreUnlocked",
+                        "tag": "p/ar"
+                    },
+                    "AKEY": {
+                        "name": "AKEY-47",
+                        "rarity": "Mythical",
+                        "status": "Unobtainable",
+                        "from": "Legendary Key Bundle",
+                        "tag": "p/akey"
+                    },
+                    "AUG": {
+                        "name": "AUG",
+                        "rarity": "Legendary",
+                        "status": "Obtainable",
+                        "from": "Skin Case 2",
+                        "tag": "p/aug"
+                    },
+                    "TommyGun": {
+                        "name": "Tommy Gun",
+                        "rarity": "Legendary",
+                        "status": "Obtainable",
+                        "from": "Skin Case 3",
+                        "tag": "p/tg"
+                    },
+                    "GAUG": {
+                        "name": "Gingerbread AUG",
+                        "rarity": "Legendary",
+                        "status": "Unobtainable",
+                        "from": "Festive Skin Case",
+                        "tag": "p/gaug"
+                    },
+                    "AK": {
+                        "name": "AK-47",
+                        "rarity": "Rare",
+                        "status": "Obtainable",
+                        "from": "Skin Case 1",
+                        "tag": "p/ak"
+                    },
+                    "Boneclaw": {
+                        "name": "Boneclaw Rifle",
+                        "rarity": "Rare",
+                        "status": "Unobtainable",
+                        "from": "Spooky Skin Case",
+                        "tag": "p/bc"
+                    },
+                    "Phoenix": {
+                        "name": "Phoenix Rifle",
+                        "rarity": "Common",
+                        "status": "Unobtainable",
+                        "from": "Ranked S1",
+                        "tag": "p/pr"
+                    }
+                }
+            }
+        }
+    }
+}
